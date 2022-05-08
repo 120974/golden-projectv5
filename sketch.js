@@ -126,7 +126,7 @@ if(gameState==="level1Inside"){
     }
   }
 }
-if(score===1){
+if(score===10){
   gameState="backToStage1"
 }
 
